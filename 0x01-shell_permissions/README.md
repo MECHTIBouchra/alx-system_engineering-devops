@@ -5,3 +5,4 @@ README
 6. A script that adds execute permission to the owner and the group owner, and read permission to the other users, to the file .
 7. 7-everybody script that adds execution permissions to the owner, the group owner and the other users, to the file hello.
 8.  A script that gives the gives the rest of the users permission and removes all permission for the owner and the group owner.
+9.  A script that sets the mode of the file ; where owner has all the permissions set, group owner has execute permissions set and others have only write and read permissions set.
