@@ -8,3 +8,4 @@ README
 9.  A script that sets the mode of the file ; where owner has all the permissions set, group owner has execute permissions set and others have only write and read permissions set.
 10 A script that sets the mode of the file hello the same as olleh's mode.
 11. A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. (**NB:** *Regular files should not be changed.*)
+12. A script that creates a directory called my_dir with permissions **751** in the working directory.
